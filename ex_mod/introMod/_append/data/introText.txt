@@ -1,5 +1,0 @@
-<!loadGame!>
-    <path.assets<'shared'>
-        <run.loadGame>
-    <endPath>
-<end>
