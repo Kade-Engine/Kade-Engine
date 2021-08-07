@@ -2,7 +2,7 @@
 
 ## Kade Engine:
 
-Lime Engine is an Entire **Community Based Rythem Game Engine**
+Kade Engine is an Entire **Community Based Rythem Game Engine**
 With features from peaple like you!
 
 **You Can Find More Info On The Lime-Engine Website!**
