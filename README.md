@@ -1,11 +1,18 @@
 ![image](https://user-images.githubusercontent.com/84461200/128559798-11c54ea4-16e6-45c3-a0e4-c129783c3823.png)
 
+## Friday Night Funkin'
+Friday Night Funkin' is a rythem game expirence made with this engine but we modified it and made it its own thing!
+
+Links: [itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](https://www.newgrounds.com/portal/view/770371) ⋅ 
+`
+ KadeDev
+`
 ## Kade Engine:
 
-Kade Engine is an Entire **Community Based Rythem Game Engine**
+Kade Engine is an Entire **Community Based Rythem Game Engine** 
 With features from peaple like you!
 
-**You Can Find More Info On The Lime-Engine Website!**
+**You Can Find More Info On The Kade-Engine Website!**
 
 (https://kadedevteam.github.io/Lime-Engine-Web/)
 
